@@ -26,7 +26,7 @@ Learned and implemented through a YouTube Power BI tutorial (project-based learn
 🔍 **Business Problem**<br/>
 Organizations face challenges in understanding why employees leave (attrition) and which factors (salary, age, job role, experience) influence turnover. Without proper analysis, this leads to increased hiring costs and reduced productivity.<br/>
 
-🎯 **Goal**:
+🎯 **Goal**:<br/>
 To build a dynamic HR dashboard that:<br/>
 1.Tracks employee attrition and workforce metrics.<br/>
 2.Identifies key factors driving employee turnover.<br/>
