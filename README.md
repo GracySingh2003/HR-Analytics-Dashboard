@@ -79,8 +79,9 @@ Attrition is higher in early years of employment<br/>
 This project was built by following a YouTube Power BI tutorial, applying hands-on learning to create a real-world HR analytics dashboard.
 
 📸 **Dashboard Preview** :
+https://github.com/GracySingh2003/HR-Analytics-Dashboard/blob/main/HR%20Analytics.png
 
 
-
+⭐ *If you found this project useful, consider giving it a star!*
 
 
