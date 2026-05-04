@@ -22,9 +22,10 @@ The purpose of this dashboard is to help organizations identify patterns behind 
 HR dataset containing employee details such as age, salary, job role, education, and attrition.<br/>
 Learned and implemented through a YouTube Power BI tutorial (project-based learning).<br/>
 
-🚀 **Features & Highlights**:
-🔍 **Business Problem**
+🚀 **Features & Highlights**:<br/>
+🔍 **Business Problem**<br/>
 Organizations face challenges in understanding why employees leave (attrition) and which factors (salary, age, job role, experience) influence turnover. Without proper analysis, this leads to increased hiring costs and reduced productivity.<br/>
+
 🎯 **Goal**:
 To build a dynamic HR dashboard that:<br/>
 1.Tracks employee attrition and workforce metrics.<br/>
